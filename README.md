@@ -11,12 +11,12 @@
    
 It is completely responsive website, to provide smooth experience...😎  
 
-![Small Preview]()  
+ 
 
 
 ## 🚩 Front LOOk of Main Page:
 
-![Front View]()
+![Front View](https://github.com/The-Shivam-garg/CollegeCommunity-Website/blob/805af3a7d51d5562add892628b9613c00236ae53/images/front.png)
 
 
 
