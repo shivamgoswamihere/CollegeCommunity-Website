@@ -22,7 +22,7 @@ It is completely responsive website, to provide smooth experience...😎
 
 ### Website build using HTML5, CSS3, JavaScript ,Ruby , SCSS and jQuery.
 
-<h2> Website:Comming Soon After final touch <BR>
+<h2> Website: <BR>
 <a href="https://the-shivam-garg.github.io/CollegeCommunity-Website/" target="_blank">Visit 🚀</a>
 </h2> 
 
