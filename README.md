@@ -64,12 +64,12 @@ It is completely responsive website, to provide smooth experience...😎
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/Community-Website"><img src="https://sloc.xyz/github/The-Shivam-garg/Community-Website"  alt="LOC" /></a>
-<a href="https://github.com/The-Shivam-garg/Community-Website"><img src="https://img.shields.io/github/stars/The-Shivam-garg/Community-Website" alt="Stars Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/Community-Website/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/Community-Website" alt="Forks Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/Community-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/Community-Website?color=2b9348" ></a>
+<a href="https://github.com/The-Shivam-garg/CollegeCommunity-Website"><img src="https://sloc.xyz/github/The-Shivam-garg/CollegeCommunity-Website"  alt="LOC" /></a>
+<a href="https://github.com/The-Shivam-garg/CollegeCommunity-Website"><img src="https://img.shields.io/github/stars/The-Shivam-garg/CollegeCommunity-Website" alt="Stars Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/CollegeCommunity-Website/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/CollegeCommunity-Website" alt="Forks Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/CollegeCommunity-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/CollegeCommunity-Website?color=2b9348" ></a>
 
-[![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/Community-Website?logo=github)](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/CollegeCommunity-Website?logo=github)](https://github.com/The-Shivam-garg/CollegeCommunity-Website/blob/master/LICENSE)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 </div>
