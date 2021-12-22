@@ -244,19 +244,19 @@ section {
 
 .home .box .content span {
   font-size: 4rem;
-  color: #10221b;
+  color: #ffffff;
 }
 
 .home .box .content h3 {
   font-size: 6rem;
-  color: #219150;
+  color: #ffbb28;
   padding-top: .5rem;
   text-transform: uppercase;
 }
 
 .home .box .content p {
   line-height: 2;
-  color: #10221b;
+  color: #dff6f8;
   font-size: 1.5rem;
   padding: 1rem 0;
 }
